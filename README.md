@@ -13,7 +13,7 @@ Our project investigates which neighborhood in Pittsburgh has the best environme
 ## Datasets used:
 
 1. Ashu - [Illegal Dump Sites](https://data.wprdc.org/dataset/allegheny-county-illegal-dump-sites/resource/ee834d8d-ae71-4b3b-b02b-312ba321ff17?view_id=1988368f-ec43-430c-9478-bd31164c1326)
-This dataset shows the amount of garbage in tons in each neighborhoof found throughout Pittsburgh
+This dataset shows the amount of garbage in tons in each neighborhood found throughout Pittsburgh
 
 2. Reuben - [Air Quality]()
 
