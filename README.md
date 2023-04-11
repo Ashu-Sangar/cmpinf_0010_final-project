@@ -7,7 +7,7 @@ By Climate Crusaders (Canvas Group 6) (Ashu Sangar [ass125@pitt.edu], Reuben Tho
 ## Which neighborhood is the most environmentally friendly? 
 Our project investigates which neighborhood in Pittsburgh has the best environment by looking at illegal dumpsites, air quality, and toxic release.
 
-## The Winner Is..
+## The Winner Is...
 
 
 ## Datasets used:
