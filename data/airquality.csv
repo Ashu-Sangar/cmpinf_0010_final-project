@@ -1,0 +1,23 @@
+date,site,parameter,index_value,description,health_advisory,health_effects
+2023-04-10,South Fayette,OZONE,64,Moderate,Unusually sensitive people should consider reducing prolonged or heavy outdoor exertion.,Unusually sensitive individuals may experience respiratory symptoms.
+2023-04-10,Liberty 2,PM25T,72,Moderate,Unusually sensitive people should consider reducing prolonged or heavy exertion.,"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+2023-04-10,North Braddock,SO2,34,Good,,
+2023-04-10,Harrison Township,NO2,17,Good,,
+2023-04-10,Glassport High Street,PM10,21,Good,,
+2023-04-10,North Braddock,PM10_640,28,Good,,
+2023-04-10,Pittsburgh,PM10_640,19,Good,,
+2023-04-10,Parkway East,PM25_640,38,Good,,
+2023-04-10,North Braddock,PM25_640,52,Moderate,Unusually sensitive people should consider reducing prolonged or heavy exertion.,"Respiratory symptoms possible in unusually sensitive individuals, possible aggravation of heart or lung disease in people with cardiopulmonary disease and older adults."
+2023-04-10,Liberty,SO2,30,Good,,
+2023-04-10,Pittsburgh,NO2_500,28,Good,,
+2023-04-10,Clairton,PM25_640,44,Good,,
+2023-04-10,Lawrenceville 2,CO,4,Good,,
+2023-04-10,Parkway East,NO2,37,Good,,
+2023-04-10,Harrison Township,OZONE,49,Good,,
+2023-04-10,Lawrenceville,OZONE,49,Good,,
+2023-04-10,North Braddock,CO,13,Good,,
+2023-04-10,Parkway East,CO,10,Good,,
+2023-04-10,Pittsburgh,PM25_640,43,Good,,
+2023-04-10,Lawrenceville 2,SO2,4,Good,,
+2023-04-10,Liberty 2,PM10,29,Good,,
+2023-04-10,Avalon,PM25_640,42,Good,,
