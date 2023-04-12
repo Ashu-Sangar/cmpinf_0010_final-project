@@ -18,4 +18,4 @@ This dataset shows the amount of garbage (in tons) each neighborhood has through
 2. Reuben - [Air Quality](https://data.wprdc.org/dataset/allegheny-county-air-quality)
 This dataset shows the AQI values shown in sites/neighborhoods throughout Pittsburgh
 
-3. Nick - [Toxic Release](link)
+3. Nick - [Toxic Release](https://data.wprdc.org/dataset/toxic-release-inventory) The data provides information about toxic substances released into the environment or managed through recycling, energy recovery, and treatment in Allegheny County
