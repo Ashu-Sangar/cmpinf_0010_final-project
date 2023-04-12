@@ -7,8 +7,8 @@ By Climate Crusaders (Canvas Group 6) (Ashu Sangar [ass125@pitt.edu], Reuben Tho
 ## Which neighborhood is the most environmentally friendly? 
 Our project investigates which neighborhood in Pittsburgh has the best environment by looking at illegal dumpsites, air quality, and toxic release.
 
-## The Winner Is...
-
+## The Winner Is Point Point Breeze North!
+![Pgh_locator_point_breeze_north svg](https://user-images.githubusercontent.com/124842004/231320967-58dab937-18e5-4855-8213-123ef2f366f0.png)
 
 ## Datasets used:
 
